@@ -3,12 +3,12 @@ entries:
   privilege:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-05T08:18:07.637943787Z"
+    created: "2021-01-09T07:57:27.615848347Z"
     description: A Helm chart for Kubernetes
-    digest: 5a4948b695f3018e4994fc155df367393a5a9deb3d29e41043fcb04e0841fa97
+    digest: 939752747f7504427194fc9c350eaf1a66f8fac69e557ce94e91f3ff82cb8f0c
     name: privilege
     type: application
     urls:
     - privilege-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-05T08:18:07.63680626Z"
+generated: "2021-01-09T07:57:27.614770931Z"
